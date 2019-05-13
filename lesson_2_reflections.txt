@@ -15,3 +15,6 @@ The diagrams are a pictorial representation tht lets me see more than one branch
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The changes in the two branches no present in their common root are merged. We represent the merged branches as a new tip which comes from the branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Git's automatic merging means the human doesn't have to think about the merges. This can be bad though, since bad merges will happen. Always doing merges manually is more cumbersome, but gives greater control over the content and quality of the merges.
