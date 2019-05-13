@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+The metadata is created and placed inthe hidden .git directory. You have to initialize to begin tracking changes with Git.
