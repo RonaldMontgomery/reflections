@@ -1,0 +1,13 @@
+1.7 - With the line differences isolated for review I needed to understand the differences. This error was recognized intuitively.
+
+1.8 - You can find mistakes you've introduced. You can also re-visit your original intent.
+
+1.15 - Pros of maunal save: You have control over frequency and have intent in your actions. Cons: Humans always introduce error.
+
+1.18 - It's  how you work. In GIT you may be changing many program files. In Google Docs you're working on one doc at a time.
+
+1.22 - Git log shows the history of changes to a file or fileset. Diff shows the specific changes between two saves / versions of a file or fileset.
+
+1.26 - If I could see the changes made and revert them with ease, I think I would be confident to make any change.
+
+1.31 - Now that you have your workspace set up, what do you want to try using Git for? I want to useit to trak changes to documentsand cosing projects.
