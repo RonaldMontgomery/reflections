@@ -3,3 +3,6 @@ The metadata is created and placed inthe hidden .git directory. You have to init
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area is an intermdiate area where individual files can be added for commit. It give you control over what to track or not a track in a directory.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Use git -status to check pending file changes. Then use git diff to check the file changes not inthe staging area but are in the working directory.
