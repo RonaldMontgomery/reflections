@@ -9,3 +9,6 @@ Use git -status to check pending file changes. Then use git diff to check the fi
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When you want to test a new feature or explore a diffeent line of thought. The first logical change is the new branch, and each successive logical change, to keep it simple, would be a new commit on that branch. With descriptive branch naming this keeps your thoughts organized by branch.
+
+How do the diagrams help you visualize the branch structure?
+The diagrams are a pictorial representation tht lets me see more than one branch at a time. 
