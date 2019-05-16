@@ -11,3 +11,6 @@ Branches - A branch is anyplace where the head can be. Used to develip features 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It is a snapshot/baseline for comparison. It can be restored in the event of disasterous change on the remote repository.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Oh, probably a saved file on a website like google Docs, or a fileshare or file sharing service. It would be as easy as copying it down and up, but tracking changes and versions would be a mess.
