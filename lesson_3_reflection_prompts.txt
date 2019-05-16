@@ -14,3 +14,6 @@ It is a snapshot/baseline for comparison. It can be restored in the event of dis
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Oh, probably a saved file on a website like google Docs, or a fileshare or file sharing service. It would be as easy as copying it down and up, but tracking changes and versions would be a mess.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When I am collaborating with someone else or when I want to test new features. Testing in master keeps it simple, but using a dev branch ensures I don't screw up the prod code.
